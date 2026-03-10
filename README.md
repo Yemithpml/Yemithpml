@@ -1,59 +1,90 @@
+<h1 align="center">Hi 👋, I'm Opeyemi</h1>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat" />
+I'm a Frontend Engineer building clean, responsive and user-focused web applications.
+I enjoy turning ideas into scalable products that users actually love.
 </p>
-# Hi 👋 I'm Opeyemi
-
-🚀 Frontend Developer passionate about building clean, responsive web applications.
-
-💡 I love turning ideas into real products using modern web technologies.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🌱 Currently learning **Next.js and advanced React**
-- 💻 Frontend developer focused on **modern web apps**
-- 🎯 Goal: Work as a **remote frontend engineer**
-- ⚡ Fun fact: I enjoy solving real-world problems with code
+- 💻 Frontend Developer focused on **modern web applications**
+- ⚡ I love building **simple tools that solve everyday problems**
+- 🌱 Currently improving my skills in **Next.js
 
----
+# 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" />
+</p>
 
-Frontend:
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- TailwindCSS
-
-Tools:
-- Git
-- GitHub
-- VS Code
-- Figma
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&perline=6" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 📊 GitHub Stats
 
-### 🧠 Second Brain App
-A web app that helps users store random thoughts and ideas quickly.
+<p align="center">
 
-Tech Stack:
-React, Next.js, Tailwind
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Contribution Streak
 
-- LinkedIn
-- Twitter
-- Portfolio Website
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# ⏱️ Wakatime Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Contribution Badges
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💡 *“Great software is built by solving real problems simply.”*
+</p>
