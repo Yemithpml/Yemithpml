@@ -12,8 +12,8 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer focused on **modern web applications**
-- ⚡ I love building **simple tools that solve everyday problems**
+- 💻 Frontend Developer focused on **modern web applications**.
+- ⚡ I love building **simple tools that solve everyday problems**. 
 
 # 🛠️ Tech Stack
 
@@ -53,9 +53,10 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="mailto":opeyemiodusanya60@gmail.com>
+<a href="mailto:opeyemiodusanya60@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 
 </p>
 
