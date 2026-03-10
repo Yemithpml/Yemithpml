@@ -46,8 +46,6 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 <a href="https://www.linkedin.com/in/opeyemi-odusanya-2a7a38262?">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
 
 <a href="https://twitter.com/yemith_dev">
 <img src="https://skillicons.dev/icons?i=twitter" />
@@ -63,5 +61,5 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 ---
 
 <p align="center">
-💡 <i>"Great software is built by solving real problems simply."</i>
+<i>"Great software is built by solving real problems."</i>
 </p>
