@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat" />
+</p>
 # Hi 👋 I'm Opeyemi
 
 🚀 Frontend Developer passionate about building clean, responsive web applications.
