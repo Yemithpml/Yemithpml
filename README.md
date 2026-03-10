@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Opeyemi
 
-<!--
-**Yemithpml/Yemithpml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer passionate about building clean, responsive web applications.
 
-Here are some ideas to get you started:
+💡 I love turning ideas into real products using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Next.js and advanced React**
+- 💻 Frontend developer focused on **modern web apps**
+- 🎯 Goal: Work as a **remote frontend engineer**
+- ⚡ Fun fact: I enjoy solving real-world problems with code
+
+---
+
+## 🛠️ Tech Stack
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- TailwindCSS
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Second Brain App
+A web app that helps users store random thoughts and ideas quickly.
+
+Tech Stack:
+React, Next.js, Tailwind
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Twitter
+- Portfolio Website
