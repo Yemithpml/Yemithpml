@@ -48,26 +48,6 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 <img src="https://streak-stats.demolab.com?user=yemithpml&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# ⏱️ Wakatime Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yemithpml&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 Contribution Badges
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yemithpml&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
