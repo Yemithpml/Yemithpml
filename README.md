@@ -14,7 +14,6 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 
 - 💻 Frontend Developer focused on **modern web applications**
 - ⚡ I love building **simple tools that solve everyday problems**
-- 🌱 Currently improving my skills in **Next.js.
 
 # 🛠️ Tech Stack
 
@@ -40,19 +39,13 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 
 </p>
 
----
-
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yemithpml&theme=tokyonight&hide_border=true"/>
-</p>
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN">](https://www.linkedin.com/in/opeyemi-odusanya-2a7a38262?)">
+<a href="https://www.linkedin.com/in/opeyemi-odusanya-2a7a38262?">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -60,7 +53,7 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="opeyemiodusanya60@gmail.com">
+<a href="mailto":opeyemiodusanya60@gmail.com>
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
