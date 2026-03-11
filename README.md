@@ -12,7 +12,7 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer focused on **modern web applications**.
+- 💻 Frontend Engineer focused on **modern web applications**.
 - ⚡ I love building **simple tools that solve everyday problems**. 
 
 # 🛠️ Tech Stack
