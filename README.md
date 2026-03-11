@@ -54,5 +54,5 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 ---
 
 <p align="center">
-<i>"Great software is built by solving real problems."</i>
+<i>Great software is built by solving real problems.</i>
 </p>
