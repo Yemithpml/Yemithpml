@@ -17,14 +17,8 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 
 # 🛠️ Tech Stack
 
-### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=6" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma,vercel&perline=6" />
 </p>
 
 ---
@@ -54,7 +48,6 @@ I'm a Frontend Engineer in the react ecosystem building clean, responsive and us
 <a href="mailto:opeyemiodusanya60@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 
 </p>
 
