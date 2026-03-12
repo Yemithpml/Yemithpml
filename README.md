@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Opeyemi</h1>
 
 <p align="center">
-I'm a Frontend Engineer in the react ecosystem building clean, responsive and user-focused web applications.
+I'm a Frontend Engineer in the react ecosystem crafting clean, responsive and user-focused web applications.
 </p>
 
 <p align="center">
