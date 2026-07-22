@@ -13,7 +13,7 @@ I'm a Frontend Engineer in the react ecosystem crafting clean, responsive and us
 ## 🚀 About Me
 
 - 💻 Frontend Engineer focused on crafting usable ui for **modern web applications**.
-- ⚡ I love building **simple tools that make life easier and solve problems**. 
+- ⚡ I love building user friendly ui's. 
 
 # 🛠️ Tech Stack
 
