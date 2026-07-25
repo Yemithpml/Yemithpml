@@ -1,48 +1,73 @@
-<h1 align="center">Hi 👋, I'm Opeyemi</h1>
+<h1 align="center">Hi 👋, I'm Opeyemi Odusanya</h1>
+
+<h3 align="center">
+Frontend Engineer | React & Next.js Developer | Building Fast, Responsive & User-Centered Web Applications
+</h3>
 
 <p align="center">
-I'm a Frontend Engineer in the React ecosystem crafting clean, responsive and user-focused web applications.
+Passionate about turning ideas into modern, scalable, and intuitive web experiences.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Yemithpml&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Engineer focused on crafting usable UI for **modern web applications**
-- ⚡ I love building user-friendly UIs
+- 💻 Frontend Engineer specializing in **React, Next.js, TypeScript, and Tailwind CSS**
+- 🎯 Passionate about creating responsive, accessible, and user-friendly interfaces
+- 🌱 Constantly learning and improving my frontend development skills
+- 🤝 Open to internships, collaborations, and exciting frontend projects
+- ⚡ Fun fact: I enjoy transforming ideas into beautiful web experiences.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma,vercel" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yemithpml&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yemithpml&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yemithpml&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Yemithpml&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Yemithpml" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<!-- Add these when available -->
+
+<!--
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" width="45" />
+</a>
+-->
+
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
