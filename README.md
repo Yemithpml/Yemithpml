@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Opeyemi Odusanya</h1>
+<h1 align="center">Hi 👋, I'm Opeyemi</h1>
 
 <h3 align="center">
-Frontend Engineer | React & Next.js Developer | Building Fast, Responsive & User-Centered Web Applications
+Frontend Engineer📍| Building Fast, Responsive & User-Centered Web Applications
 </h3>
 
 <p align="center">
@@ -14,15 +14,6 @@ Passionate about turning ideas into modern, scalable, and intuitive web experien
 
 ---
 
-## 🚀 About Me
-
-- 💻 Frontend Engineer specializing in **React, Next.js, TypeScript, and Tailwind CSS**
-- 🎯 Passionate about creating responsive, accessible, and user-friendly interfaces
-- 🌱 Constantly learning and improving my frontend development skills
-- 🤝 Open to internships, collaborations, and exciting frontend projects
-- ⚡ Fun fact: I enjoy transforming ideas into beautiful web experiences.
-
----
 
 ## 🛠 Tech Stack
 
