@@ -45,20 +45,14 @@ Passionate about turning ideas into modern, scalable, and intuitive web experien
 <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
-<!-- Add these when available -->
-
-<!--
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/opeyemiodusanya">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
-<a href="https://YOUR-PORTFOLIO.vercel.app">
+<a href="https://opeyemi-odusanya.vercel.app">
 <img src="https://skillicons.dev/icons?i=vercel" width="45" />
 </a>
 -->
 
 </p>
 
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
