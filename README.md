@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Yemithpml">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Opeyemi" alt="Hello! I&#39;m Opeyemi" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Opeyemi" alt="Hello! I'm Opeyemi" />
   </a>
 </p>
 
@@ -10,10 +10,12 @@
 
 ### 🚀 About Me
 
-Frontend Engineer📍| Building Fast, Responsive &amp; User-Centered Web Applications.  
+Frontend Engineer📍 | Building Fast, Responsive & User-Centered Web Applications.  
 Passionate about turning ideas into modern, scalable, and intuitive web experiences.
 
 ⚡ &nbsp;Fun fact: **I love good UX**
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -34,6 +36,8 @@ Passionate about turning ideas into modern, scalable, and intuitive web experien
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+---
+
 ### 🔗 Connect With Me
 
 <p align="left">
@@ -41,6 +45,8 @@ Passionate about turning ideas into modern, scalable, and intuitive web experien
   <a href="https://linktr.ee/Yemiththedev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:opeyemiodusanya60@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -50,5 +56,13 @@ Passionate about turning ideas into modern, scalable, and intuitive web experien
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Yemithpml">Yemithpml</a></i></p>
 
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yemithpml&theme=tokyonight&hide_border=true&background=00000000&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/Yemithpml">Yemithpml</a></i></p>
