@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=790&height=44&lines=Frontend%20Engineer%20%7C%20Building%20Fast%2C%20Responsive%20UI's" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=835&height=44&lines=Frontend%20Engineer%20%7C%20Building%20Fast%20and%20Responsive%20UI's" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -51,3 +51,4 @@ Passionate about turning ideas into modern, scalable, and intuitive web experien
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Yemithpml">Yemithpml</a></i></p>
+
