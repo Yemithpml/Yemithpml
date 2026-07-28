@@ -57,12 +57,6 @@ Passionate about turning ideas into modern, scalable, and intuitive web experien
 
 ---
 
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Yemithpml&theme=tokyonight&hide_border=true&background=00000000&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
-</p>
-
 ---
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Yemithpml">Yemithpml</a></i></p>
