@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Yemithpml">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Opeyemi" alt="Hello! I'm Opeyemi" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Opeyemi" alt="Hi! I'm Opeyemi" />
   </a>
 </p>
 
